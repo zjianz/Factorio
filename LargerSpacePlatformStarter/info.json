@@ -1,0 +1,9 @@
+{
+     "name": "LargerSpacePlatformStarter",
+     "version": "0.0.1",
+     "title": "Larger space platform starter(更大的太空平台启动包)",
+     "description": "Space platform start with more fundation\n太空平台启动包带有更多太空平台基座",
+     "author": "besset",
+     "factorio_version": "2.0",
+     "dependencies": ["base >= 2.0", "space-age"]
+}
